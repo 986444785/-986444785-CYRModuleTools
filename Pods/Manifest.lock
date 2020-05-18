@@ -1,0 +1,16 @@
+PODS:
+  - CYRModuleTools (0.1.0)
+
+DEPENDENCIES:
+  - CYRModuleTools (from `Lib/CYRModuleTools`)
+
+EXTERNAL SOURCES:
+  CYRModuleTools:
+    :path: Lib/CYRModuleTools
+
+SPEC CHECKSUMS:
+  CYRModuleTools: 0bf4a672549fd6fe01003455d635fc4cea468da6
+
+PODFILE CHECKSUM: 6e745ae6b84d85cf8bfacf7b0b35ed523d487a33
+
+COCOAPODS: 1.7.0
